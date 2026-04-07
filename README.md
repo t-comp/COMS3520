@@ -1,6 +1,6 @@
-**overview**: this repo contains projects from COMS 3520 that involve developing
-user level programs and kernel mods for xv6-riscv which is an
-operating system that emulates unix and used for teaching purposes.
+**overview**: this repo contains projects from COMS 3520 that include
+the development of user level programs and kernel mods for xv6-riscv 
+which is an operating system that emulates unix and used for teaching purposes.
 
 **projects:**
 
